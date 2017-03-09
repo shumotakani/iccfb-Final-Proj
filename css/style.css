@@ -133,7 +133,7 @@ form.navbar-form.navbar-right {
 }
 ul.nav.nav-sidebar li.active a{
     background-color: #232323 !important;
-    color: #21DEEF;
+    color: #D2041A;
 }
 ul.nav.nav-sidebar li a{
     color: #BBBBBB;
@@ -146,7 +146,7 @@ ul.nav.nav-sidebar li a{
 }
 .sidebar ul.nav-sidebar li a:hover{
     background-color: #232323 !important;
-    color: #21DEEF;
+    color: #D2041A;
 }
 .sidebar ul.nav-sidebar li.active{
     background-color: #232323 !important;
@@ -570,7 +570,7 @@ a.btn.btn-primary.btn-lg.see-button.hvr-shutter-out-horizontal {
   margin: .5em 0;
 }
 .resent-grid-info p.author a.author{
-    color: #21DEEF;
+    color: #D2041A;
     text-decoration: none;
     padding-left: 1.8em;
     background: url(../images/u12.png) no-repeat 0px 1px;
@@ -676,7 +676,7 @@ a.btn.btn-primary.btn-lg.see-button.hvr-shutter-out-horizontal {
 }
 .heading-right a{
     padding: 8px 20px;
-    background: #21DEEF;
+    background: #D2041A;
     color: #FFF;
     font-size: 14px;
     text-decoration: none;
@@ -951,7 +951,7 @@ select.form-control.bfh-countries:hover {
 }
 .show-right-grids ul li a:hover{
     text-decoration: underline;
-    color: #21DEEF;
+    color: #D2041A;
 }
 .show-right-grids ul li a img {
 	width: 100%;
@@ -1101,7 +1101,7 @@ width:100%;
     text-align: center;
     margin: 2em auto 0 auto;
     padding: .5em 0;
-    background: #21DEEF;
+    background: #D2041A;
     width: 19%;
 }
 #loadMore:hover {
@@ -1183,7 +1183,7 @@ width:100%;
     outline: none;
     font-style: normal;
     padding: 8px 20px;
-    background: #21DEEF;
+    background: #D2041A;
     font-size: 14px;
     color: #fff;
     display: block;
@@ -1231,7 +1231,7 @@ width:100%;
 }
 .all-comments-buttons ul li a.top:hover{
     color: #FFFFFF;
-    background: #21DEEF;
+    background: #D2041A;
 }
 .media-grids{
 	margin-top:4em;
@@ -1270,7 +1270,7 @@ width:100%;
     font-size: 13px;
 }
 .media-body  span a {
-    color: #21DEEF;
+    color: #D2041A;
     text-decoration: none;
 }
 .media:nth-child(3) {
@@ -1309,7 +1309,7 @@ width:100%;
     margin: 0em 0;
 }
 .single-right-grid-right p.author a {
-    color: #21DEEF;
+    color: #D2041A;
     text-decoration: none;
 }
 .single-right-grid-right p.views {
@@ -1357,7 +1357,7 @@ span.glyphicon.glyphicon-user {
 }
 .about-left-info a{
     font-size: 20px;
-    color: #21DEEF;
+    color: #D2041A;
     margin: 0 0 .5em 0;
     font-weight: 600;
     text-decoration: none;
@@ -1413,7 +1413,7 @@ span.glyphicon.glyphicon-user {
 }
 .news-left h3{
     font-size: 20px;
-    color: #21DEEF;
+    color: #D2041A;
     margin: 0 0 .5em 0;
     font-weight: 600;
 }
@@ -1434,7 +1434,7 @@ span.glyphicon.glyphicon-user {
     line-height: 1.8em;
 }
 .news-right ol li a:hover{
-    color: #21DEEF;
+    color: #D2041A;
     text-decoration: none;
 }
 /*-- copyright --*/
@@ -1448,7 +1448,7 @@ span.glyphicon.glyphicon-user {
     line-height: 1.8em;
 }
 .copy-info ol li a:hover{
-    color: #21DEEF;
+    color: #D2041A;
     text-decoration: none;
 }
 .copy-grid h4{
@@ -1501,7 +1501,7 @@ span.glyphicon.glyphicon-user {
     margin-bottom: 3em;
 }
 .developers-grid a{
-    color: #21DEEF;
+    color: #D2041A;
     font-size: 24px;
     margin: 0;
     text-decoration: none;
@@ -1526,7 +1526,7 @@ span.glyphicon.glyphicon-user {
     margin-bottom: 3em;
 }
 .creators-grid a{
-	color: #21DEEF;
+	color: #D2041A;
     font-size: 24px;
     margin: 0;
     text-decoration: none;
@@ -1542,7 +1542,7 @@ span.glyphicon.glyphicon-user {
 }
 .creators-bottom-grids-info h3{
 	text-align: center;
-    color: #21DEEF;
+    color: #D2041A;
     font-size: 24px;
     margin: 0;
 }
@@ -1609,7 +1609,7 @@ span.glyphicon.glyphicon-user {
     padding: 2em;
 }
 .try-left-info h3{
-    color: #21DEEF;
+    color: #D2041A;
     font-size: 24px;
     margin: 0;
 }
@@ -1624,7 +1624,7 @@ span.glyphicon.glyphicon-user {
     padding: 2em;
 }
 .try-right-left h3{
-    color: #21DEEF;
+    color: #D2041A;
     font-size: 3em;
     margin: 0;
 }
@@ -1729,7 +1729,7 @@ span.glyphicon.glyphicon-user {
 }
 .upload-right-bottom-left ul li a:hover{
     text-decoration: none;
-    color: #21DEEF;
+    color: #D2041A;
 }
 .news-main-grids {
     padding: 0 0 1em 3em;
